@@ -50,6 +50,7 @@ npm run dev
 
 # Run backend only
 npm run server
+```
 
 ## Build & Deploy
 
@@ -57,4 +58,4 @@ npm run server
 # Create frontend prod build
 cd frontend
 npm run build
- 
+```
